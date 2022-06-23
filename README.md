@@ -1,1 +1,1 @@
-# Dniester-properties-SARIMA-forecasting
+# Considered problem of constructing a model for forecasting the water level and flow rate of the Dniester River. For this, performed preliminary data analysis using spectral and covariance analysis methods. Obtained results were sued for model selection and estimation of model parameters. There were researched stages of construction SARIMA model and how it describes the dynamics of changes in river level and flow rate of Dniester River.
